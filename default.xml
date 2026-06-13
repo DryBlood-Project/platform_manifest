@@ -1060,4 +1060,5 @@
   <contactinfo bugurl="go/repo-bug"/>
 
   <include name="snippets/axion.xml" />
+  <include name="snippets/dryblood.xml" />
 </manifest>

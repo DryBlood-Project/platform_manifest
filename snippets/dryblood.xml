@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="dryblood"
+          fetch="https://github.com/DryBlood-Project//"
+          sync-c="true"
+          sync-j="4"
+          revision="refs/heads/2026060600-2.7" />
+
+  <project path="vendor/dryblood" name="platform_vendor_dryblood" remote="dryblood">
+    <linkfile src="dbuild" dest="./dbuild" />
+  </project>
+</manifest>
