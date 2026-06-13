@@ -7,6 +7,6 @@
           revision="refs/heads/2026060600-2.7" />
 
   <project path="vendor/dryblood" name="platform_vendor_dryblood" remote="dryblood">
-    <linkfile src="dbuild" dest="./dbuild" />
+    <linkfile src="dbuild" dest="dbuild" />
   </project>
 </manifest>
